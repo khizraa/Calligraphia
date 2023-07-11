@@ -1,0 +1,73 @@
+     body{margin: 0;}
+
+     hr{margin: 30px;}
+     
+     h1 {color: aliceblue;
+        
+         font-family: 'Courier New', Courier, monospace ;
+         font-size: 40px;
+         text-align: center;
+         padding-top: 24px;}
+     ul {margin: 40;
+        padding: 10;
+        font-family: 'Times New Roman', Times, serif;
+        overflow: hidden;
+        list-style-type: none;}  
+    
+     li{float: left;}
+    
+     li a{list-style-type: none;
+        background-color:rgb(49, 40, 16);
+        display: block;
+        border-radius: 15px;
+        text-decoration: none;
+        display: block;
+        text-align: center;
+        padding: 10px;
+        font-family: 'Times New Roman', Times, serif;
+        color:aliceblue;} 
+    
+     li a:hover{list-style-type: none;
+        text-decoration: none;
+        color: aliceblue;
+        background-color: burlywood;} 
+        
+      pre{color:  rgb(59, 36, 28);}
+
+      .about{text-align: center;
+         background-color: aliceblue;
+         padding-top: 40px;}
+
+         h2{font-size: 50px;
+            color: rgb(57, 50, 30);}
+        
+        p {font-size: 25px;
+            font-family: cursive;
+            margin: 60px;
+            color: burlywood;}   
+
+         footer{background-color: rgb(59, 36, 28);
+            color: aliceblue;
+              text-align: center;
+              font-size: 20px;
+              padding-top: 60px;
+              padding-bottom: 60px;
+             font-family: cursive;}    
+        
+             a{list-style-type: none;
+               float: left;
+               background-color:rgb(49, 40, 16);
+               display: block;
+               border-radius: 15px;
+               text-decoration: none;
+               display: block;
+               text-align: center;
+               padding: 10px;
+               font-family: 'Times New Roman', Times, serif;
+               color:aliceblue;} 
+           
+             a:hover{list-style-type: none;
+               text-decoration: none;
+               color: aliceblue;
+               background-color: burlywood;} 
+     
